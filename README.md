@@ -1,4 +1,4 @@
-# EtherCard
+# 基于 EtherCard 的一些代码，我的代码会放在 pgmsoul 文件夹
 
 [![Travis Status][S]][T]
 
